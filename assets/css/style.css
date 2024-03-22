@@ -592,7 +592,7 @@ ol li {
 
 @media(min-width:768px) {
     :root {
-        --fs-18: 18px;
+        --fs-18: 13px;
         --fs-22: 22px;
         --fs-28: 28px;
         --fs-36: 36px;
