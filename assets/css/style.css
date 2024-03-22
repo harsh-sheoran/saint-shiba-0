@@ -129,6 +129,8 @@
     border-image-source: linear-gradient(95.21deg, rgba(255, 255, 255, 0.2) -0.59%, rgba(255, 255, 255, 0.092) 106.99%);
 }
 
+
+
 .circle {
     height: 71px;
     width: 71px;
@@ -300,6 +302,10 @@
     width: 42%;
     position: absolute;
     transform: translateY(-50%);
+}
+
+.value{
+    color: #FFF;
 }
 
 .value:hover {
